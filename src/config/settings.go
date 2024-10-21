@@ -26,5 +26,5 @@ var (
 	WhatsappSettingMaxVideoSize int64 = 100000000 // 100MB
 	WhatsappTypeUser                  = "@s.whatsapp.net"
 	WhatsappTypeGroup                 = "@g.us"
-	WhatsappAccountValidation         = true
+	WhatsappAccountValidation         = false
 )
